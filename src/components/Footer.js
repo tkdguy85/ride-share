@@ -68,6 +68,7 @@ function Footer() {
                             className="social-icon-link"
                             href='https://www.linkedin.com/in/tkdguy85/'
                             target='_blank'
+                            rel="noreferrer"
                             aria-label='Linked In'>
                             <i className="fa fa-linkedin"></i>
                         </a>
@@ -75,6 +76,7 @@ function Footer() {
                             className="social-icon-link"
                             href='https://github.com/tkdguy85/'
                             target='_blank'
+                            rel="noreferrer"
                             aria-label='Github'>
                             <i className="fa fa-github-alt"></i>
                         </a>
@@ -82,6 +84,7 @@ function Footer() {
                             className="social-icon-link"
                             href='mailto:dallasgordon3@gmail.com'
                             target='_blank'
+                            rel="noreferrer"
                             aria-label='email'>
                             <i className="fa fa-envelope"></i>
                         </a>
