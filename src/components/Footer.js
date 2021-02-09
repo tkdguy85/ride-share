@@ -66,24 +66,24 @@ function Footer() {
                     <div className="social-icons">
                         <a 
                             className="social-icon-link"
-                            href='/https://www.linkedin.com/in/tkdguy85/'
+                            href='https://www.linkedin.com/in/tkdguy85/'
                             target='_blank'
                             aria-label='Linked In'>
                             <i className="fa fa-linkedin"></i>
                         </a>
                         <a 
                             className="social-icon-link"
-                            href='/https://github.com/tkdguy85/'
+                            href='https://github.com/tkdguy85/'
                             target='_blank'
                             aria-label='Github'>
                             <i className="fa fa-github-alt"></i>
                         </a>
                         <a 
                             className="social-icon-link"
-                            href='/'
+                            href='mailto:dallasgordon3@gmail.com'
                             target='_blank'
                             aria-label='email'>
-                            <i className="fa fa-google"></i>
+                            <i className="fa fa-envelop"></i>
                         </a>
                     </div>
                 </div>
