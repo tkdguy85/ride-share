@@ -36,10 +36,10 @@ function Footer() {
                         </div>
                         <div className="footer-link-items">
                             <h2>Vendors</h2>
-                            <Link to='/https://www.spacex.com/'>SpaceX</Link>
-                            <Link to='/https://www.blueorigin.com/'>Blue Origin</Link>
-                            <Link to='/https://www.rocketlabusa.com/'>Rocket Lab</Link>
-                            <Link to='/https://virginorbit.com/'>Virgin Orbit</Link>
+                            <Link to='https://www.spacex.com/'>SpaceX</Link>
+                            <Link to='https://www.blueorigin.com/'>Blue Origin</Link>
+                            <Link to='https://www.rocketlabusa.com/'>Rocket Lab</Link>
+                            <Link to='https://virginorbit.com/'>Virgin Orbit</Link>
                         </div>
                     </div>
                     
@@ -54,10 +54,10 @@ function Footer() {
                         </div> */}
                         <div className="footer-link-items">
                             <h2>Social Contacts</h2>
-                            <Link to='/https://www.linkedin.com/in/tkdguy85/'>LinkedIn</Link>
-                            <Link to='/https://github.com/tkdguy85/'>Github</Link>
-                            <Link to='/https://tkdguy85.github.io/helloworld/'>Resume</Link>
-                            <Link to='/https://hashnode.com/@tkdguy85'>Blog</Link>
+                            <Link to='https://www.linkedin.com/in/tkdguy85/'>LinkedIn</Link>
+                            <Link to='https://github.com/tkdguy85/'>Github</Link>
+                            <Link to='https://tkdguy85.github.io/helloworld/'>Resume</Link>
+                            <Link to='https://hashnode.com/@tkdguy85'>Blog</Link>
                         </div>
                     </div>
                 </div>
