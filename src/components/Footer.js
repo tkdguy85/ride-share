@@ -83,7 +83,7 @@ function Footer() {
                             href='mailto:dallasgordon3@gmail.com'
                             target='_blank'
                             aria-label='email'>
-                            <i className="fa fa-envelop"></i>
+                            <i className="fa fa-envelope"></i>
                         </a>
                     </div>
                 </div>
