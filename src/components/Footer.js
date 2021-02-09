@@ -36,20 +36,20 @@ function Footer() {
                         </div>
                         <div className="footer-link-items">
                             <h2>Vendors</h2>
-                            <a to='https://www.spacex.com/'>SpaceX</a>
-                            <a to='https://www.blueorigin.com/'>Blue Origin</a>
-                            <a to='https://www.rocketlabusa.com/'>Rocket Lab</a>
-                            <a to='https://virginorbit.com/'>Virgin Orbit</a>
+                            <a href='https://www.spacex.com/'>SpaceX</a>
+                            <a href='https://www.blueorigin.com/'>Blue Origin</a>
+                            <a href='https://www.rocketlabusa.com/'>Rocket Lab</a>
+                            <a href='https://virginorbit.com/'>Virgin Orbit</a>
                         </div>
                     </div>
                     
                     <div className="footer-link-wrap">
                         <div className="footer-link-items">
                             <h2>Social Contacts</h2>
-                            <a to='https://www.linkedin.com/in/tkdguy85/'>LinkedIn</a>
-                            <a to='https://github.com/tkdguy85/'>Github</a>
-                            <a to='https://tkdguy85.github.io/helloworld/'>Resume</a>
-                            <a to='https://hashnode.com/@tkdguy85'>Blog</a>
+                            <a href='https://www.linkedin.com/in/tkdguy85/'>LinkedIn</a>
+                            <a href='https://github.com/tkdguy85/'>Github</a>
+                            <a href='https://tkdguy85.github.io/helloworld/'>Resume</a>
+                            <a href='https://hashnode.com/@tkdguy85'>Blog</a>
                         </div>
                     </div>
                 </div>
@@ -66,21 +66,21 @@ function Footer() {
                     <div className="social-icons">
                         <a 
                             className="social-icon-link"
-                            to='/https://www.linkedin.com/in/tkdguy85/'
+                            href='/https://www.linkedin.com/in/tkdguy85/'
                             target='_blank'
                             aria-label='Linked In'>
                             <i className="fa fa-linkedin"></i>
                         </a>
                         <a 
                             className="social-icon-link"
-                            to='/https://github.com/tkdguy85/'
+                            href='/https://github.com/tkdguy85/'
                             target='_blank'
                             aria-label='Github'>
                             <i className="fa fa-github-alt"></i>
                         </a>
                         <a 
                             className="social-icon-link"
-                            to='/'
+                            href='/'
                             target='_blank'
                             aria-label='email'>
                             <i className="fa fa-google"></i>
