@@ -36,28 +36,20 @@ function Footer() {
                         </div>
                         <div className="footer-link-items">
                             <h2>Vendors</h2>
-                            <Link to='https://www.spacex.com/'>SpaceX</Link>
-                            <Link to='https://www.blueorigin.com/'>Blue Origin</Link>
-                            <Link to='https://www.rocketlabusa.com/'>Rocket Lab</Link>
-                            <Link to='https://virginorbit.com/'>Virgin Orbit</Link>
+                            <a to='https://www.spacex.com/'>SpaceX</a>
+                            <a to='https://www.blueorigin.com/'>Blue Origin</a>
+                            <a to='https://www.rocketlabusa.com/'>Rocket Lab</a>
+                            <a to='https://virginorbit.com/'>Virgin Orbit</a>
                         </div>
                     </div>
                     
                     <div className="footer-link-wrap">
-                        {/* <div className="footer-link-items">
-                            <h2>Secret Items</h2>
-                            <Link to='/'>Project 1</Link>
-                            <Link to='/'>Project 2</Link>
-                            <Link to='/'>Project 3</Link>
-                            <Link to='/'>Project 4</Link>
-
-                        </div> */}
                         <div className="footer-link-items">
                             <h2>Social Contacts</h2>
-                            <Link to='https://www.linkedin.com/in/tkdguy85/'>LinkedIn</Link>
-                            <Link to='https://github.com/tkdguy85/'>Github</Link>
-                            <Link to='https://tkdguy85.github.io/helloworld/'>Resume</Link>
-                            <Link to='https://hashnode.com/@tkdguy85'>Blog</Link>
+                            <a to='https://www.linkedin.com/in/tkdguy85/'>LinkedIn</a>
+                            <a to='https://github.com/tkdguy85/'>Github</a>
+                            <a to='https://tkdguy85.github.io/helloworld/'>Resume</a>
+                            <a to='https://hashnode.com/@tkdguy85'>Blog</a>
                         </div>
                     </div>
                 </div>
@@ -72,27 +64,27 @@ function Footer() {
                     </div>
                     <small className="rights">Established 2025</small>
                     <div className="social-icons">
-                        <Link 
+                        <a 
                             className="social-icon-link"
                             to='/https://www.linkedin.com/in/tkdguy85/'
                             target='_blank'
                             aria-label='Linked In'>
                             <i className="fa fa-linkedin"></i>
-                        </Link>
-                        <Link 
+                        </a>
+                        <a 
                             className="social-icon-link"
                             to='/https://github.com/tkdguy85/'
                             target='_blank'
                             aria-label='Github'>
                             <i className="fa fa-github-alt"></i>
-                        </Link>
-                        <Link 
+                        </a>
+                        <a 
                             className="social-icon-link"
                             to='/'
                             target='_blank'
                             aria-label='email'>
                             <i className="fa fa-google"></i>
-                        </Link>
+                        </a>
                     </div>
                 </div>
             </section>
