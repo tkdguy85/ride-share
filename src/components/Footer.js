@@ -7,6 +7,7 @@ function Footer() {
     return (
         <div>
             <div className="footer-container">
+                
                 <section className="footer-sub">
                     <p className="footer-sub-heading">
                         Sign up for our launch updates.
@@ -23,8 +24,8 @@ function Footer() {
                         </form>
                     </div>
                 </section>
-                <div className="footer-links">
-                    
+                
+                <div className="footer-links">                    
                     <div className="footer-link-wrap">
                         <div className="footer-link-items">
                             <h2>About Us</h2>
@@ -35,32 +36,33 @@ function Footer() {
                         </div>
                         <div className="footer-link-items">
                             <h2>Vendors</h2>
-                            <Link to='/'>SpaceX</Link>
-                            <Link to='/'>Blue Origin</Link>
-                            <Link to='/'>Rocket Lab</Link>
-                            <Link to='/'>Virgin Orbit</Link>
+                            <Link to='/https://www.spacex.com/'>SpaceX</Link>
+                            <Link to='/https://www.blueorigin.com/'>Blue Origin</Link>
+                            <Link to='/https://www.rocketlabusa.com/'>Rocket Lab</Link>
+                            <Link to='/https://virginorbit.com/'>Virgin Orbit</Link>
                         </div>
                     </div>
                     
                     <div className="footer-link-wrap">
-                        <div className="footer-link-items">
+                        {/* <div className="footer-link-items">
                             <h2>Secret Items</h2>
                             <Link to='/'>Project 1</Link>
                             <Link to='/'>Project 2</Link>
                             <Link to='/'>Project 3</Link>
                             <Link to='/'>Project 4</Link>
 
-                        </div>
+                        </div> */}
                         <div className="footer-link-items">
                             <h2>Social Contacts</h2>
-                            <Link to='/'>LinkedIn</Link>
-                            <Link to='/'>Github</Link>
-                            <Link to='/'>Resume</Link>
-                            <Link to='/'>Blog</Link>
+                            <Link to='/https://www.linkedin.com/in/tkdguy85/'>LinkedIn</Link>
+                            <Link to='/https://github.com/tkdguy85/'>Github</Link>
+                            <Link to='/https://tkdguy85.github.io/helloworld/'>Resume</Link>
+                            <Link to='/https://hashnode.com/@tkdguy85'>Blog</Link>
                         </div>
                     </div>
                 </div>
             </div>
+            
             <section className="social-media">
                 <div className="social-media-wrap">
                     <div className="footer-logo">

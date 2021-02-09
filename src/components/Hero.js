@@ -24,7 +24,7 @@ function Hero() {
                     buttonSize='btn--large'>
                         Orbital Reference <i className='fa fa-play-circle' />
                     </Button>  
-                    <h2>The future is here!</h2>
+                    <h2>The future is here! See below.</h2>
                 </div>
                 <div className="hero-arrow">⇣ ⇣ ⇣</div>
             </div>
